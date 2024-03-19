@@ -9,3 +9,6 @@ python rdr2dump.py -s "C:\Users\<username>\Documents\Rockstar Games\Red Dead Red
 ```
 
 #Kullandığınız için teşekkürler :)
+
+# Kullanımı için çekmiş olduğum videoyu izleyebilirsiniz:
+https://www.youtube.com/watch?v=uCmMfagnqic
